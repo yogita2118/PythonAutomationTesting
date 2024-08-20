@@ -4,22 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6178ea12-209a-4302-b0bf-0c95c22d4c71" name="Changes" comment="10/08/2024">
-      <change afterPath="$PROJECT_DIR$/src/Task/Task001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task/Task003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab0036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonAutomationTesting.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonAutomationTesting.iml" afterDir="false" />
+    <list default="true" id="6178ea12-209a-4302-b0bf-0c95c22d4c71" name="Changes" comment="17/08/2024">
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab038.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab039.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab040.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab041.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab043.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,12 +35,12 @@
     &quot;assignee&quot;: &quot;yogita2118&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/yogita2118/PythonAutomationTesting.git",
-    "accountId": "c12e0954-0951-42ed-b386-0eec35273c6d"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yogita2118/PythonAutomationTesting.git&quot;,
+    &quot;accountId&quot;: &quot;c12e0954-0951-42ed-b386-0eec35273c6d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -94,87 +86,26 @@
     "Python.Lab022.executor": "Run",
     "Python.Lab023.executor": "Run",
     "Python.Lab025.executor": "Run",
+    "Python.Lab040.executor": "Run",
+    "Python.Lab041.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Yogi/PycharmProjects/PythonAutomationTesting"
+    "last_opened_file_path": "C:/Users/Yogi/PycharmProjects/PythonAutomationTesting/src/ex_20082024"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\ex_20082024" />
       <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\ex_13082024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\ex_20082024" />
+      <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\ex_23082024" />
       <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\ex_10082024" />
       <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab0036">
-    <configuration name="Lab0032" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonAutomationTesting" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/Lab0032.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab0033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonAutomationTesting" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/Lab0033.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab0034" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonAutomationTesting" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_17082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_17082024/Lab0034.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lab042">
     <configuration name="Lab0035" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAutomationTesting" />
       <option name="ENV_FILES" value="" />
@@ -219,13 +150,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab040" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonAutomationTesting" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_20082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/Lab040.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab041" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonAutomationTesting" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_20082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/Lab041.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonAutomationTesting" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_20082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex_20082024/Lab042.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab042" />
+        <item itemvalue="Python.Lab041" />
+        <item itemvalue="Python.Lab040" />
         <item itemvalue="Python.Lab0036" />
         <item itemvalue="Python.Lab0035" />
-        <item itemvalue="Python.Lab0034" />
-        <item itemvalue="Python.Lab0033" />
-        <item itemvalue="Python.Lab0032" />
       </list>
     </recent_temporary>
   </component>
@@ -261,13 +258,22 @@
       <option name="project" value="LOCAL" />
       <updated>1723489674050</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="17/08/2024">
+      <option name="closed" value="true" />
+      <created>1724092834681</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724092834681</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 added" />
     <MESSAGE value="10/08/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="10/08/2024" />
+    <MESSAGE value="17/08/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="17/08/2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
