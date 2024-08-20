@@ -1,11 +1,11 @@
 # number = 3.14159265359
-# formated_number = f"{number:.5f}"
+# formated_number = f"{number:.4f}"
 # print(formated_number)
 #
 #
 # Format String
 num = 90
-print("This is the number you are working with "f"{num}")
+print("This is the number you are working with "f" {num} ")
 
 # Table
 # 2x1 = 2
