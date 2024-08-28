@@ -27,7 +27,6 @@ num1 = int(input("Enter the num1\n"))
 num2 = int(input("Enter the num2\n"))
 num3 = int(input("Enter the num3\n"))
 
-
 #  5 > 3 and 5 > 2 -> true -> 5
 # num 1 >  num2  and num 1 > num 3 ->  num 1
 
