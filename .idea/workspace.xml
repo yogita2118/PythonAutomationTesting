@@ -4,34 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6178ea12-209a-4302-b0bf-0c95c22d4c71" name="Changes" comment="07092024">
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab146.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab147.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab148.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab149.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab150.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab151.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab152.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab153.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab154.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab155.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab156.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab157.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab158.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab159.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab160.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab161.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab162.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab163.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab164.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab165.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Lab166.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/TestData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/TestData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/Yogi/yogi.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sept/ex_10092024/example.txt" afterDir="false" />
+    <list default="true" id="6178ea12-209a-4302-b0bf-0c95c22d4c71" name="Changes" comment="10092024">
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/ExcelReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/Lab171.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/Lab172.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/browserPackage/CloseBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/browserPackage/OpenBrowser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_12092024/ExcelReder.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/Lab170.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_12092024/Lab167.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/Lab167.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_12092024/Lab168.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/Lab168.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_12092024/Lab169.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/Lab169.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_12092024/MySQLdbReader.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/MySQLdbReader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sept/ex_12092024/browserPackage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sept/ex_12092024/browserPackage/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +58,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.ExcelReader (1).executor": "Run",
+    "Python.ExcelReder.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab0016.executor": "Run",
     "Python.Lab002.executor": "Run",
@@ -222,6 +209,12 @@
     "Python.Lab164.executor": "Run",
     "Python.Lab165.executor": "Run",
     "Python.Lab166.executor": "Run",
+    "Python.Lab167.executor": "Run",
+    "Python.Lab168.executor": "Run",
+    "Python.Lab169.executor": "Run",
+    "Python.Lab171.executor": "Run",
+    "Python.Lab172.executor": "Run",
+    "Python.MySQLdbReader.executor": "Run",
     "Python.Task001.executor": "Run",
     "Python.Task002.executor": "Run",
     "Python.Task003.executor": "Run",
@@ -232,28 +225,28 @@
     "Python.Task008.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Yogi/PycharmProjects/PythonAutomationTesting/src/Sept/ex_10092024",
+    "last_opened_file_path": "C:/Users/Yogi/PycharmProjects/PythonAutomationTesting/src/Sept/ex_12092024/PythonPackagee",
     "settings.editor.selected.configurable": "build.tools"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\Sept\ex_12092024\PythonPackagee" />
+      <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\Sept\ex_12092024" />
       <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\Sept\ex_10092024" />
       <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\Sept\ex_07092024" />
       <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\Sept\ex_02092024" />
-      <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\August\ex_31082024" />
-      <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\August\ex_29082024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\Sept\ex_12092024\browserPackage" />
       <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\Sept\ex_10092024\Yogi" />
       <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\Sept\Normal_dir" />
       <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\August" />
       <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\ex_20082024" />
-      <recent name="C:\Users\Yogi\PycharmProjects\PythonAutomationTesting\src\ex_23082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab166">
-    <configuration name="Lab162" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab172">
+    <configuration name="Lab168" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAutomationTesting" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,11 +255,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_10092024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_12092024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_10092024/Lab162.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_12092024/Lab168.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab163" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab169" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAutomationTesting" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,11 +277,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_10092024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_12092024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_10092024/Lab163.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_12092024/Lab169.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab164" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab171" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAutomationTesting" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -306,11 +299,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_10092024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_12092024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_10092024/Lab164.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_12092024/Lab171.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,7 +312,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab165" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab172" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAutomationTesting" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -328,11 +321,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_10092024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_12092024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_10092024/Lab165.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_12092024/Lab172.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,7 +334,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab166" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MySQLdbReader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonAutomationTesting" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -350,11 +343,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_10092024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Sept/ex_12092024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_10092024/Lab166.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Sept/ex_12092024/MySQLdbReader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,11 +358,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab166" />
-        <item itemvalue="Python.Lab165" />
-        <item itemvalue="Python.Lab164" />
-        <item itemvalue="Python.Lab163" />
-        <item itemvalue="Python.Lab162" />
+        <item itemvalue="Python.Lab172" />
+        <item itemvalue="Python.Lab171" />
+        <item itemvalue="Python.Lab169" />
+        <item itemvalue="Python.Lab168" />
+        <item itemvalue="Python.MySQLdbReader" />
       </list>
     </recent_temporary>
   </component>
@@ -485,7 +478,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726598645791</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="10092024">
+      <option name="closed" value="true" />
+      <created>1726849483767</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726849483767</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -501,7 +502,8 @@
     <MESSAGE value="27082024" />
     <MESSAGE value="05092024" />
     <MESSAGE value="07092024" />
-    <option name="LAST_COMMIT_MESSAGE" value="07092024" />
+    <MESSAGE value="10092024" />
+    <option name="LAST_COMMIT_MESSAGE" value="10092024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
